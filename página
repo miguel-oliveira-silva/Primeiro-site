@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página principal</title>
+</head>
+<body>
+    <h1>Meu primeiro site</h1>
+    <ol>
+
+        <li>
+           <p> <a href="textos.html" target="_blank">Aqui</a> para textos</p>
+        </li>
+        <li>
+            <p> <a href="listas.html" target="_blank">Aqui</a> para listas</p>
+        </li>
+        <li>
+            <p> <a href="Tags.html" target="_blank">Aqui</a> para tags</p>
+        </li>
+
+
+
+    </ol>
+</body>
+</html>
